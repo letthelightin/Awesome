@@ -27,6 +27,7 @@
   - [Productivity](#productivity)
   - [Terminal](#terminal)
   - [Text Editors](#text-editors)
+  - [User Interface](#UserInterface)
   - [Utilities](#utilities)
   - [Video](#video)
 - [Setup](#setup)
@@ -166,6 +167,18 @@
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
+
+
+### User Interface
+
+- [Dexpot](http://www.dexpot.de/) - virtual desktops for windows (must have; highly configurable)
+- [Volume²](https://irzyxa.wordpress.com/) - advanced volume control (must have; highly configurable)
+- [RocketDock](http://rocketdock.com/) - best screen edge dock for windows (must have; highly configurable)
+*note: If you want to run more than one dock at once there is a [cracked executable](http://www.drewkeller.com/content/rocketdock-multiple-docks) that enables this
+- [OpenHardwareMonitor](http://openhardwaremonitor.org/) - detailed system statistics in a small simple widget
+- [Auto Mute](http://auto-mute.com/) - starts/resumes Windows muted
+- [Customizer God for Windows 7 and 8.1](http://www.door2windows.com/customizergod/) - alter windows 7 image resources like the Windows Start Orb, default system tray icons, etc.
+- [BatteryBarPro](http://batterybarpro.com/) - insert a cell phone styled battery meter next to your notification tray
 
 
 ### Utilities

@@ -170,14 +170,18 @@
 
 ### User Interface
 
+- [Auto Mute](http://auto-mute.com/) - Start/resume Windows in muted state.
+- [BatteryBarPro](http://batterybarpro.com/) - Insert a cell phone styled battery meter next to your notification tray.
+- [Customizer God for Windows 7 and 8.1](http://www.door2windows.com/customizergod/) - Alter Windows image resources like the Start Orb, default tray icons, etc.
 - [Dexpot](http://www.dexpot.de/) - Virtual desktops for windows.
+- [OpenHardwareMonitor](http://openhardwaremonitor.org/) - Detailed system statistics in a small simple widget.
 - [Volume²](https://irzyxa.wordpress.com/) - Advanced volume control.
 - [RocketDock](http://rocketdock.com/) - Best screen edge dock for windows.
 *note: If you want to run more than one dock at once there is a [cracked executable](http://www.drewkeller.com/content/rocketdock-multiple-docks) that enables this
-- [OpenHardwareMonitor](http://openhardwaremonitor.org/) - Detailed system statistics in a small simple widget.
-- [Auto Mute](http://auto-mute.com/) - Start/resume Windows in muted state.
-- [Customizer God for Windows 7 and 8.1](http://www.door2windows.com/customizergod/) - Alter Windows image resources like the Start Orb, default tray icons, etc.
-- [BatteryBarPro](http://batterybarpro.com/) - Insert a cell phone styled battery meter next to your notification tray.
+
+
+
+
 
 
 ### Utilities
